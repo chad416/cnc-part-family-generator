@@ -1,0 +1,27 @@
+{
+  "_note": "Generic 2-axis lathe. Rapid rates are axis speeds; the X rate is the radial (physical) slide speed.",
+  "n_max": 3500,
+  "rapid_x_mm_min": 20000,
+  "rapid_z_mm_min": 24000,
+  "tool_change_s": 1.5,
+  "tool_change_x": 100.0,
+  "tool_change_z": 100.0,
+  "jaw_height": 20.0,
+  "materials": {
+    "C45": 1.0,
+    "42CrMo4": 0.85
+  },
+  "planner": {
+    "face_allowance": 1.0,
+    "finish_allowance": 0.2,
+    "start_z": 2.0,
+    "retract": 0.5,
+    "part_off_extra_od": 0.5,
+    "part_off_extra_bore": 1.0,
+    "thread_first_depth_per_pitch": 0.2,
+    "thread_min_depth": 0.05,
+    "thread_finish_allowance": 0.02,
+    "thread_spring_passes": 1,
+    "thread_turned_undersize": 0.15
+  }
+}

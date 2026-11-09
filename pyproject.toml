@@ -1,0 +1,10 @@
+[project]
+name = "cncgen"
+version = "0.1.0"
+description = "Parametric 2-axis lathe programs for families of hydraulic-cylinder parts, with a G-code read-back verifier"
+requires-python = ">=3.12"
+dependencies = ["numpy>=2.0", "matplotlib>=3.8"]
+license = { text = "MIT" }
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

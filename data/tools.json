@@ -1,0 +1,15 @@
+{
+  "_note": "Generic cutting data for unalloyed steel (C45). Illustrative values, not taken from a tool maker's catalogue.",
+  "tools": [
+    {"number": 1, "kind": "turn", "desc": "OD ROUGH CNMG 120408", "rn": 0.8, "vc": 200, "f": 0.25, "doc": 2.0},
+    {"number": 2, "kind": "turn", "desc": "OD FINISH DNMG 150604", "rn": 0.4, "vc": 250, "f": 0.12},
+    {"number": 3, "kind": "bore", "desc": "BORING BAR D12 CCMT 09T304", "rn": 0.4, "vc": 180, "f": 0.12, "doc": 1.0, "min_bore": 16.0},
+    {"number": 4, "kind": "groove_ext", "desc": "OD GROOVE / PART-OFF W3", "width": 3.0, "vc": 120, "f": 0.06, "max_depth": 25.0},
+    {"number": 5, "kind": "groove_int", "desc": "ID GROOVE W2", "width": 2.0, "vc": 100, "f": 0.04, "min_bore": 25.0, "max_depth": 6.0},
+    {"number": 6, "kind": "thread", "desc": "OD THREAD 60 DEG", "vc": 100, "n_max": 1500},
+    {"number": 7, "kind": "drill", "desc": "INSERT DRILL D16", "d": 16.0, "vc": 150, "f": 0.06},
+    {"number": 8, "kind": "drill", "desc": "INSERT DRILL D20", "d": 20.0, "vc": 150, "f": 0.07},
+    {"number": 9, "kind": "drill", "desc": "INSERT DRILL D25", "d": 25.0, "vc": 160, "f": 0.08},
+    {"number": 10, "kind": "drill", "desc": "INSERT DRILL D32", "d": 32.0, "vc": 160, "f": 0.09}
+  ]
+}

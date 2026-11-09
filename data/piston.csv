@@ -1,0 +1,4 @@
+id,bore_d,od_clear,inner_d,length,seal_w,seal_bottom_d,guide_w,guide_bottom_d,guide_inset,chamfer,stock_d,material
+PI-40,40,0.3,20,30,8.1,30,4,35,2.5,1,45,C45
+PI-63,63,0.3,30,40,12.5,48,4.2,58,3,1,70,C45
+PI-80,80,0.3,45,50,16,62,5.6,75,4,1,85,C45

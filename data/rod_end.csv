@@ -1,0 +1,4 @@
+id,rod_d,thread_d,pitch,thread_len,relief_w,spigot_d,spigot_len,chamfer,material
+RE-25,25,16,1.5,22,4,20,20,1.5,42CrMo4
+RE-40,40,27,2,30,5,30,30,2,42CrMo4
+RE-56,56,42,3,40,7,45,38,2.5,42CrMo4

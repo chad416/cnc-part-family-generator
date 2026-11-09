@@ -1,0 +1,29 @@
+| Part | Family | Output | Lines | Tool changes | Cycle time (s) | Gouge | Leftover | Rapid hits | Jaw hits | Errors |
+|---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| RE-25 | rod_end | fanuc | 145 | 4 | 40.4 | 0 | 0 | 0 | 0 | 0 |
+| RE-25 | rod_end | fanuc_cycles | 78 | 4 | 40.4 | 0 | 0 | 0 | 0 | 0 |
+| RE-25 | rod_end | sinumerik | 143 | 4 | 40.4 | 0 | 0 | 0 | 0 | 0 |
+| RE-40 | rod_end | fanuc | 153 | 4 | 82.5 | 0 | 0 | 0 | 0 | 0 |
+| RE-40 | rod_end | fanuc_cycles | 78 | 4 | 82.5 | 0 | 0 | 0 | 0 | 0 |
+| RE-40 | rod_end | sinumerik | 151 | 4 | 82.5 | 0 | 0 | 0 | 0 | 0 |
+| RE-56 | rod_end | fanuc | 156 | 4 | 155.9 | 0 | 0 | 0 | 0 | 0 |
+| RE-56 | rod_end | fanuc_cycles | 81 | 4 | 155.9 | 0 | 0 | 0 | 0 | 0 |
+| RE-56 | rod_end | sinumerik | 154 | 4 | 155.9 | 0 | 0 | 0 | 0 | 0 |
+| PI-40 | piston | fanuc | 177 | 5 | 150.2 | 0 | 0 | 0 | 0 | 0 |
+| PI-40 | piston | fanuc_cycles | 139 | 5 | 150.2 | 0 | 0 | 0 | 0 | 0 |
+| PI-40 | piston | sinumerik | 175 | 5 | 150.2 | 0 | 0 | 0 | 0 | 0 |
+| PI-63 | piston | fanuc | 188 | 5 | 308.1 | 0 | 0 | 0 | 0 | 0 |
+| PI-63 | piston | fanuc_cycles | 142 | 5 | 308.1 | 0 | 0 | 0 | 0 | 0 |
+| PI-63 | piston | sinumerik | 186 | 5 | 308.1 | 0 | 0 | 0 | 0 | 0 |
+| PI-80 | piston | fanuc | 203 | 5 | 558.0 | 0 | 0 | 0 | 0 | 0 |
+| PI-80 | piston | fanuc_cycles | 145 | 5 | 558.0 | 0 | 0 | 0 | 0 | 0 |
+| PI-80 | piston | sinumerik | 201 | 5 | 558.0 | 0 | 0 | 0 | 0 | 0 |
+| GL-25 | gland | fanuc | 200 | 6 | 194.4 | 0 | 0 | 0 | 0 | 0 |
+| GL-25 | gland | fanuc_cycles | 158 | 6 | 194.4 | 0 | 0 | 0 | 0 | 0 |
+| GL-25 | gland | sinumerik | 198 | 6 | 194.4 | 0 | 0 | 0 | 0 | 0 |
+| GL-40 | gland | fanuc | 214 | 6 | 440.1 | 0 | 0 | 0 | 0 | 0 |
+| GL-40 | gland | fanuc_cycles | 164 | 6 | 440.1 | 0 | 0 | 0 | 0 | 0 |
+| GL-40 | gland | sinumerik | 212 | 6 | 440.1 | 0 | 0 | 0 | 0 | 0 |
+| GL-56 | gland | fanuc | 251 | 6 | 871.1 | 0 | 0 | 0 | 0 | 0 |
+| GL-56 | gland | fanuc_cycles | 173 | 6 | 871.1 | 0 | 0 | 0 | 0 | 0 |
+| GL-56 | gland | sinumerik | 249 | 6 | 871.1 | 0 | 0 | 0 | 0 | 0 |
